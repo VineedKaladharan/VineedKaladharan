@@ -26,4 +26,4 @@ Software Engineer passionate about distributed systems and building scalable sol
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=VineedKaladharan&show_icons=true&theme=radical)
 
 ## 🌟 Featured Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VineedKaladharan&repo=raft-rust-go)](https://github.com/YourGitHubUsername/raft-rust-go)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VineedKaladharan&repo=raft-rust-go)](https://github.com/VineedKaladharan/raft-rust-go)
