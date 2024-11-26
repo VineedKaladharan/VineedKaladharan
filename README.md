@@ -1,16 +1,29 @@
-### Hi there 👋
+# 👋 Hi, I'm Vineed Kaladharan
 
-<!--
-**VineedKaladharan/VineedKaladharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer passionate about distributed systems and building scalable solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Currently working on implementing Raft consensus in Rust and Go
+- 🌱 Learning and exploring distributed systems
+- 👯 Open to collaborate on interesting open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Languages: Rust, Go, Python
+- Distributed Systems
+- System Design
+- Cloud Technologies
+
+## 🔭 Current Projects
+- [rustyraft & goraft](https://github.com/YourUsername/raft-rust-go) - Raft consensus implementation in Rust and Go
+- [raft-etcd-go](https://github.com/YourUsername/raft-etcd-go) - Learning from etcd's Raft implementation
+- [raft-rs](https://github.com/YourUsername/raft-rs) - Exploring Rust-based Raft implementation
+
+## 📫 How to reach me
+- Bluesky: https://bsky.app/profile/vineedkaladharan.bsky.social
+- Email: vineedkumar.kaladharan@proton.me
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=VineedKaladharan&show_icons=true&theme=radical)
+
+## 🌟 Featured Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VineedKaladharan&repo=raft-rust-go)](https://github.com/YourGitHubUsername/raft-rust-go)
