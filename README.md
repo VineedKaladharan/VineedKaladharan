@@ -14,9 +14,9 @@ Software Engineer passionate about distributed systems and building scalable sol
 - Cloud Technologies
 
 ## 🔭 Current Projects
-- [rustyraft & goraft](https://github.com/YourUsername/raft-rust-go) - Raft consensus implementation in Rust and Go
-- [raft-etcd-go](https://github.com/YourUsername/raft-etcd-go) - Learning from etcd's Raft implementation
-- [raft-rs](https://github.com/YourUsername/raft-rs) - Exploring Rust-based Raft implementation
+- [rustyraft & goraft](https://github.com/VineedKaladharan/raft-rust-go) - Raft consensus implementation in Rust and Go
+- [raft-etcd-go](https://github.com/etcd-io/raft) - Learning from etcd's Raft implementation
+- [raft-rs](https://github.com/tikv/raft-rs) - Exploring Rust-based Raft implementation
 
 ## 📫 How to reach me
 - Bluesky: https://bsky.app/profile/vineedkaladharan.bsky.social
