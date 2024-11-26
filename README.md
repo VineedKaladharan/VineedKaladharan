@@ -8,7 +8,7 @@ Software Engineer passionate about distributed systems and building scalable sol
 - 👯 Open to collaborate on interesting open-source projects
 
 ## 🛠️ Tech Stack
-- Languages: Rust, Go, Python
+- Languages: Rust, Go, Javascript and Zig
 - Distributed Systems
 - System Design
 - Cloud Technologies
